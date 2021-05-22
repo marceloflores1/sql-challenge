@@ -1,4 +1,5 @@
--- 1. List of Employees (employee number, last name, first name, sex, and salary.)
+-- 1. List the following details of each employee: 
+--    employee number, last name, first name, sex, and salary.
 
 SELECT e.emp_no as "Employee Number", 
 	e.last_name as "Last Name",
@@ -45,7 +46,8 @@ SELECT e.first_name,
 	e.last_name,
 	e.sex
 FROM employees e
-WHERE e.first_name = 'Hercules' AND e.last_name LIKE 'B%';
+WHERE e.first_name = 'Hercules' 
+	AND e.last_name LIKE 'B%';
 
 -- 6. List all employees in the Sales department, including their 
 --    employee number, last name, first name, and department name.
@@ -78,3 +80,4 @@ SELECT e.last_name as "Last Name",
 FROM employees e
 GROUP BY e.last_name
 ORDER BY "Frequency" DESC;
+
