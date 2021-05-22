@@ -2,6 +2,14 @@
 -- NOTE! If you have used non-SQL datatypes in your design, you will have to change these here.
 
 
+CREATE TABLE "titles" (
+    "title_id" VARCHAR(5)   NOT NULL,
+    "title" VARCHAR(50)   NOT NULL,
+    CONSTRAINT "pk_titles" PRIMARY KEY (
+        "title_id"
+     )
+);
+
 CREATE TABLE "employees" (
     "emp_no" VARCHAR(10)   NOT NULL,
     "emp_title_id" VARCHAR(5)   NOT NULL,
@@ -15,16 +23,8 @@ CREATE TABLE "employees" (
      )
 );
 
-CREATE TABLE "titles" (
-    "title_id" VARCHAR(5)   NOT NULL,
-    "title" VARCHAR(50)   NOT NULL,
-    CONSTRAINT "pk_titles" PRIMARY KEY (
-        "title_id"
-     )
-);
-
 CREATE TABLE "salaries" (
-    "emp_no" VARCHAR(5)   NOT NULL,
+    "emp_no" VARCHAR(10)   NOT NULL,
     "salary" INTEGER   NOT NULL
 );
 
