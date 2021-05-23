@@ -46,7 +46,7 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 
 
 1. Create an image file of your ERD. **EmployeeSQL/ERD.png**
-![alt text](https://github.com/marceloflores1/sql-challenge/tree/main/EmployeeSQL/ERD.png?raw=true)
+<img width="1440" alt="ERD" src="https://user-images.githubusercontent.com/79871752/119247777-248f1000-bb52-11eb-8163-eda12229baff.png">
 
 2. Create a .sql file of your table schemata. **EmployeeSQL/schema.sql**
 
