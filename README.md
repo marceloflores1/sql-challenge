@@ -45,8 +45,14 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 ### Submission
 
 
-1. Create an image file of your ERD. ## EmployeeSQL/schema.sql
-2. Create a .sql file of your table schemata.
-3. Create a .sql file of your queries.
-4. (Optional) Create a Jupyter Notebook of the bonus analysis.
-5. Create and upload a repository with the above files to GitHub and post a link on BootCamp Spot.
+1. Create an image file of your ERD. **EmployeeSQL/ERD.png**
+![alt text](https://github.com/marceloflores1/sql-challenge/tree/main/EmployeeSQL/ERD.png?raw=true)
+
+2. Create a .sql file of your table schemata. **EmployeeSQL/schema.sql**
+
+
+3. Create a .sql file of your queries. **EmployeeSQL/DataAnalysis.sql**
+
+
+4. (Optional) Create a Jupyter Notebook of the bonus analysis. **EmployeeSQL/Bonus.ipynb**
+
