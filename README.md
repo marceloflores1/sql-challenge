@@ -48,11 +48,14 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 1. Create an image file of your ERD. **EmployeeSQL/ERD.png**
 <img width="1440" alt="ERD" src="https://user-images.githubusercontent.com/79871752/119247777-248f1000-bb52-11eb-8163-eda12229baff.png">
 
+
 2. Create a .sql file of your table schemata. **EmployeeSQL/schema.sql**
+<img width="1058" alt="schema" src="https://user-images.githubusercontent.com/79871752/119247922-3624e780-bb53-11eb-832d-8338257db732.png">
 
 
 3. Create a .sql file of your queries. **EmployeeSQL/DataAnalysis.sql**
+<img width="1218" alt="DataAnalysis" src="https://user-images.githubusercontent.com/79871752/119247926-3c1ac880-bb53-11eb-9cc9-c4cd3ca40e61.png">
 
 
 4. (Optional) Create a Jupyter Notebook of the bonus analysis. **EmployeeSQL/Bonus.ipynb**
-
+<img width="720" alt="Bonus" src="https://user-images.githubusercontent.com/79871752/119247929-40df7c80-bb53-11eb-99de-1081f6d9ded3.png">
