@@ -45,7 +45,7 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 ### Submission
 
 
-1. Create an image file of your ERD.
+1. Create an image file of your ERD. ## EmployeeSQL/schema.sql
 2. Create a .sql file of your table schemata.
 3. Create a .sql file of your queries.
 4. (Optional) Create a Jupyter Notebook of the bonus analysis.
